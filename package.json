@@ -8,13 +8,13 @@
         "format": "prettier --write .",
         "format:check": "prettier --check ."
     },
-    "author": "Bakhtier Sizhaev <ai2key>",
+    "author": "Miniika",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bakhtiersizhaev/sorapure"
+        "url": "https://github.com/JustMiniikaCoding/JustTesting"
     },
-    "homepage": "https://sorapure.vercel.app",
+    "homepage": "https://miniika.vercel.app",
     "keywords": [
         "sora",
         "sora2",
